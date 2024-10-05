@@ -1,1 +1,1 @@
-{susu-oknote} {thienthien-oknote} {phatphat-oknote} {khangkhang-oknote} {chienchien-oknote} {satthan-oknote}
+{susu-okxoa} {thienthien-okxoa} {phatphat-okxoa} {khangkhang-okxoa} {chienchien-okxoa} {satthan-okxoa}
